@@ -1,0 +1,4 @@
+titanic, actor1; actor2; actor3, 23/07/2020, cinema, 23, 50
+lord of the rings, actor1; actor2; actor3, 17/08/2020, parc, 45, 78
+scarface, actor1; actor2; actor3, 8/10/2020, cinema, 67, 89
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592334209 source:c:\users\andreea.badiu\desktop\new folder (2)\festival\festival\app.cpp
+	"login.h"
+	<iostream>
+	<vector>
+	<sstream>
+
+1592334449 c:\users\andreea.badiu\desktop\new folder (2)\festival\festival\login.h
+	<iostream>
+	<fstream>
+
